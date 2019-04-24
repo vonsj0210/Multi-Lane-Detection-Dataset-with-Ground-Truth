@@ -1,3 +1,1 @@
-# Multi-Lane-Detection-Dataset-with-Ground-Truth
-##Data Description
-This dataset is a multi-lane detection dataset, which can be used to test and evaluate multiple lane detection algorithms. It is collected by a road-facing traffic recorder in some sections of Jiqing (Jinan-Qingdao) expressway, China, and the lanes are annotated with a semi-manual method (described below). There are 40 video clips in the dataset, each of which lasts 3 minutes and has a frame rate of 30 fps, and the video resolution is 1920×1080. A total of 211,837 road images with different illumination intensity and different road conditions (upstream, downhill, tunnel, culvert, ramp, etc.) are included. 
+
