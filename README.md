@@ -25,13 +25,9 @@ The dataset is constructed by integrating both automatic identification and manu
 5．	If the fitting results are in agreement with the test results, the fitting results are stored by sampling in segments and served as the basis for determining the ROI of the next frame. Otherwise, the frame is re-labeled manually.
 
 # Download
-We have uploaded the lane data file and the original video to Google Drive and Baidu Cloud. The original video folder is Jiqing Expressway Video, and the annotation file is Lane_Parameters.zip, and the download link as follows. 
-
-Google Drive:
-https://drive.google.com/drive/folders/1iO6EUira1_irMHnEFjma3vc8LfYKHmQ4?usp=sharing
+We have uploaded the lane data file and the original video to [Google Drive](https://drive.google.com/drive/folders/1iO6EUira1_irMHnEFjma3vc8LfYKHmQ4?usp=sharing) and [Baidu Cloud](https://pan.baidu.com/s/1Q_ZDAm2byOmd6OUjq4JYZA). The original video folder is Jiqing Expressway Video, and the annotation file is Lane_Parameters.zip, and the download link as follows. 
 
 Baidu Cloud:
-https://pan.baidu.com/s/1Q_ZDAm2byOmd6OUjq4JYZA
 Extraction code: rwns 
 
 # Annotation
