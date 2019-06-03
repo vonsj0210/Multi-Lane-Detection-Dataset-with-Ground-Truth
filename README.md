@@ -12,7 +12,7 @@ In addition, we label the lanes in each frame and save the labeling results as a
 
 The dataset is constructed by integrating both automatic identification and manual annotation. The automatic identification module is implemented with C++ and opencv library. The flow chart of lane extraction is shown in Figure 3. The specific steps are as follows:
 
-![Fig.3. Flow chart of lane extraction](https://i.imgur.com/e2EfqKA.png)
+![Fig.3. Flow chart of lane extraction](https://i.imgur.com/dctvIxP.png)
 
 1．	Load the video or image and mark the initial position of ROI manually for the initial frame.
  
