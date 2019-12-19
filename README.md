@@ -33,6 +33,8 @@ Extraction code: rwns
 # Annotation
 For shaded or vehicle-occluded lanes, there is no marking or only a partial marking (only a few cases). In addition, the dataset only annotates the lane lines in the direction of road traffic, excluding the lanes in the reverse direction. In addition, the lane annotation for the ramp sections may not be perfect.
 
+The camera model is HZA60 II, please refer to the parameter file for relevant internal parameters.
+
 # Acknowledgement
 The work for building this dataset is done by 
 
